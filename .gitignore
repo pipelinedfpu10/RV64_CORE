@@ -1,0 +1,13 @@
+# ModelSim compiled library
+work/
+
+# Simulation waveforms
+*.wlf
+wlft*
+
+# Backup files
+*.bak
+
+# ModelSim generated files
+*.cr.mti
+transcript
